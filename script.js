@@ -43,7 +43,7 @@ const TERMIN = 1;
 
 let data = [
     ["Künstliche Intelligenz II","February 8, 2022 11:00:00"],
-    ["ASIP","February 23, 2022 14:00:00"],
+    ["ASIP","March 4, 2022 15:00:00"],
     ["Grundlagen der IT-Sicherheit","March 12, 2022 09:00:00"],
     ["Multi-Agenten Interaktionen und Spiele","April 4, 2022 08:00:00"],
 ]
