@@ -1,7 +1,7 @@
 function addCountdown(fach, termin) {
     let myFach = document.createElement('div');
     myFach.className = "fach";
-    myFach.innerHTML = `<h2>${fach}</h2><p id="${fach}"></p>`;
+    myFach.innerHTML = `<h3>${fach}</h3><p id="${fach}"></p>`;
 
     document.body.append(myFach);
     timedown(termin, fach);
